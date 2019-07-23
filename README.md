@@ -2,7 +2,7 @@ Extended Bubble Matrix
 =================================================
 By **Annie Thornton**<br>
 
-![Extended Bubble Matrix](https://github.com/SAP/lumira-extension-viz/blob/master/Extended_Bubble_Matrix/Extended Bubble Matrix.PNG)
+![Extended Bubble Matrix](https://github.com/AnnieMT/Extended-Bubble-Matrix/blob/master/Extended%20Bubble%20Matrix.PNG)
 
 Files
 -----------
